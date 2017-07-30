@@ -11,7 +11,7 @@ You need Python, PyTorch and Numpy.
 python post.py
 ```
 
-#### Some results
+#### Example
 
 ##### Input
 ```
